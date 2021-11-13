@@ -1,0 +1,3 @@
+C:/Users/afons/Documents/2020-2021/1st_semester_2nd_year/AEDA/project1_clion/cmake-build-debug/CMakeFiles/project1_clion.dir
+C:/Users/afons/Documents/2020-2021/1st_semester_2nd_year/AEDA/project1_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/afons/Documents/2020-2021/1st_semester_2nd_year/AEDA/project1_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

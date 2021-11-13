@@ -1,0 +1,99 @@
+[DO NOT CHANGE ONLY IF YOU KNOW WHAT YOU'RE DOING, ELSE THE PROGRAM MAY BECOME CORRUPT]
+4
+Adriano Soares
+243351119
+1
+0
+Porto
+0
+0
+Afonso Monteiro
+288934172
+0
+10
+Lisboa
+0
+0
+Rita Ramada
+257823042
+0
+20
+Porto
+0
+0
+Erwin Rommel
+246213051
+1
+0
+Lisboa
+0
+0
+2
+Porto
+2
+Manuel Fonseca
+297561154
+1000
+0
+Maria Ramada
+322235294
+1100
+0
+5
+Big Bread
+Pastry
+0.5
+Small Bread
+Pastry
+0.1
+2 Layer Crunchy Cake
+Cake
+20
+2 Layer Puff Pastry Cake
+Cake
+10
+2 Layer Sponge Cake
+Cake
+15
+1
+Rita Ramada
+257823042
+0
+1
+Small Bread
+20
+0
+2
+Lisboa
+1
+Ricardo Martins
+372995845
+635
+1
+5
+Big Bread
+Pastry
+0.5
+Small Bread
+Pastry
+0.1
+2 Layer Crunchy Cake
+Cake
+20
+2 Layer Puff Pastry Cake
+Cake
+10
+2 Layer Sponge Cake
+Cake
+15
+1
+Afonso Monteiro
+288934172
+1
+Ricardo Martins
+372995845
+1
+Small Bread
+10
+0
+1
